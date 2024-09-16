@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Spaghetti Bolognese",
+      "description": "Classic Italian pasta dish with savory meat sauce.",
+      "ingredients": ["500g ground beef", "1 onion, chopped", "2 cloves garlic, minced"],
+      "time": "30 minutes",
+      "calories": "600 calories",
+      "image": "/path-to-your-image/spaghetti.jpg"
+    },
+    {
+      "name": "Grilled Chicken",
+      "description": "Juicy grilled chicken breasts with a hint of lemon and herbs.",
+      "ingredients": ["4 chicken breasts", "1 lemon, juiced", "2 tbsp olive oil", "1 tsp rosemary"],
+      "time": "25 minutes",
+      "calories": "300 calories",
+      "image": "/path-to-your-image/grilled-chicken.jpg"
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "description": "A colorful mix of vegetables stir-fried with a savory sauce.",
+      "ingredients": ["1 bell pepper, sliced", "1 zucchini, sliced", "1 carrot, julienned", "2 tbsp soy sauce"],
+      "time": "15 minutes",
+      "calories": "200 calories",
+      "image": "/path-to-your-image/vegetable-stir-fry.jpg"
+    },
+    {
+      "name": "Beef Tacos",
+      "description": "Flavorful beef tacos with fresh toppings and soft tortillas.",
+      "ingredients": ["500g ground beef", "1 onion, chopped", "1 packet taco seasoning", "8 soft tortillas"],
+      "time": "20 minutes",
+      "calories": "450 calories",
+      "image": "/path-to-your-image/beef-tacos.jpg"
+    },
+    {
+      "name": "Margherita Pizza",
+      "description": "Classic Margherita pizza with fresh mozzarella and basil.",
+      "ingredients": ["1 pizza dough", "1 cup tomato sauce", "200g fresh mozzarella", "1 bunch fresh basil"],
+      "time": "30 minutes",
+      "calories": "500 calories",
+      "image": "/path-to-your-image/margherita-pizza.jpg"
+    },
+    {
+      "name": "Chocolate Cake",
+      "description": "Rich and moist chocolate cake with a smooth chocolate frosting.",
+      "ingredients": ["1 cup flour", "1 cup sugar", "1/2 cup cocoa powder", "1/2 cup butter"],
+      "time": "45 minutes",
+      "calories": "700 calories",
+      "image": "/path-to-your-image/chocolate-cake.jpg"
+    }
+  ]
+  
